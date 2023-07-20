@@ -1,3 +1,3 @@
 # Wild_Bear_Adventure
-Міні-гра симулятор дикого ведмедя. Необхідні файли та скрипти знаходяться в папці Assets
+Mini-game 3d bear simulator. All essential files are located in Assets
 
